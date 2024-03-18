@@ -1,3 +1,0 @@
-# local-friend README
-
-Test
